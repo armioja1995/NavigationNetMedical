@@ -51,8 +51,13 @@ D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\roslyn\vbc.rsp
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\roslyn\VBCSCompiler.exe
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\roslyn\VBCSCompiler.exe.config
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\Antlr3.Runtime.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\EntityFramework.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\EntityFramework.SqlServer.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\Microsoft.Web.Infrastructure.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.DBO.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.Interfaces.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.Repositorios.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\Newtonsoft.Json.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.Helpers.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.Mvc.dll
@@ -62,6 +67,13 @@ D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.WebP
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.WebPages.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.WebPages.Razor.dll
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\WebGrease.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.DBO.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.DBO.dll.config
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.Interfaces.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.Repositorios.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\NavigationNetMedical.Repositorios.dll.config
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\EntityFramework.xml
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\EntityFramework.SqlServer.xml
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.Helpers.xml
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.Mvc.xml
 D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical\bin\System.Web.Optimization.xml

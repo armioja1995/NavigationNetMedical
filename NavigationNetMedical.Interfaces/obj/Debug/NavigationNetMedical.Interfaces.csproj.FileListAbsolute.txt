@@ -1,0 +1,12 @@
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\NavigationNetMedical.Interfaces.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\NavigationNetMedical.Interfaces.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\NavigationNetMedical.DBO.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\EntityFramework.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\NavigationNetMedical.DBO.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\NavigationNetMedical.DBO.dll.config
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\bin\Debug\EntityFramework.xml
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\obj\Debug\NavigationNetMedical.Interfaces.csproj.AssemblyReference.cache
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\obj\Debug\NavigationNetMedical.Interfaces.csproj.CoreCompileInputs.cache
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\obj\Debug\NavigationNetMedical.Interfaces.csproj.CopyComplete
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\obj\Debug\NavigationNetMedical.Interfaces.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Interfaces\obj\Debug\NavigationNetMedical.Interfaces.pdb

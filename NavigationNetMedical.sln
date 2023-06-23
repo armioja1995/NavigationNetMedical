@@ -5,6 +5,12 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationNetMedical", "NavigationNetMedical\NavigationNetMedical.csproj", "{FC4253C8-9433-4F93-AA13-C0D0E36F481B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationNetMedical.DBO", "NavigationNetMedical.DBO\NavigationNetMedical.DBO.csproj", "{8DDE52E6-AD3E-47D1-97B5-70E6A8E5097B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationNetMedical.Interfaces", "NavigationNetMedical.Interfaces\NavigationNetMedical.Interfaces.csproj", "{3332A14E-47FC-41A0-AC20-1C410B776C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationNetMedical.Repositorios", "NavigationNetMedical.Repositorios\NavigationNetMedical.Repositorios.csproj", "{0B58D431-AFDE-4060-BB84-647E80E8E26E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{FC4253C8-9433-4F93-AA13-C0D0E36F481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC4253C8-9433-4F93-AA13-C0D0E36F481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC4253C8-9433-4F93-AA13-C0D0E36F481B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDE52E6-AD3E-47D1-97B5-70E6A8E5097B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDE52E6-AD3E-47D1-97B5-70E6A8E5097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDE52E6-AD3E-47D1-97B5-70E6A8E5097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDE52E6-AD3E-47D1-97B5-70E6A8E5097B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3332A14E-47FC-41A0-AC20-1C410B776C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3332A14E-47FC-41A0-AC20-1C410B776C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3332A14E-47FC-41A0-AC20-1C410B776C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3332A14E-47FC-41A0-AC20-1C410B776C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B58D431-AFDE-4060-BB84-647E80E8E26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B58D431-AFDE-4060-BB84-647E80E8E26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B58D431-AFDE-4060-BB84-647E80E8E26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B58D431-AFDE-4060-BB84-647E80E8E26E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.Repositorios.dll.config
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.Repositorios.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.Repositorios.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\EntityFramework.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.DBO.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.Interfaces.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.DBO.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.DBO.dll.config
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\NavigationNetMedical.Interfaces.pdb
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\EntityFramework.xml
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\obj\Debug\NavigationNetMedical.Repositorios.csproj.AssemblyReference.cache
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\obj\Debug\NavigationNetMedical.Repositorios.csproj.CoreCompileInputs.cache
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\obj\Debug\NavigationNetMedical.Repositorios.csproj.CopyComplete
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\obj\Debug\NavigationNetMedical.Repositorios.dll
+D:\WORK\DESARROLLO\NavigationNetMedical\NavigationNetMedical.Repositorios\obj\Debug\NavigationNetMedical.Repositorios.pdb
